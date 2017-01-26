@@ -1,0 +1,36 @@
+﻿Build started 12/9/2016 12:25:36 PM.
+     1>Project "C:\Users\tobrie10\Desktop\OBrien_Taylor_HW6\OBrien_Taylor_HW1\OBrien_Taylor_HW1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 2012 11.0\VC\bin\CL.exe /c /I"C:\OgreSDK_vc11_v1-9-0\include" /I"C:\OgreSDK_vc11_v1-9-0\include\OIS" /I"C:\OgreSDK_vc11_v1-9-0\include\OGRE" /I"C:\OgreSDK_vc11_v1-9-0\Samples\Common\include" /I"C:\OgreSDK_vc11_v1-9-0\boost" /I"C:\OgreSDK_vc11_v1-9-0\include\OGRE\Overlay" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Agent.cpp Barrel.cpp BaseApplication.cpp Grid.cpp main.cpp GameApplication.cpp
+         GameApplication.cpp
+         main.cpp
+         Grid.cpp
+         BaseApplication.cpp
+         Barrel.cpp
+         Agent.cpp
+     1>c:\users\tobrie10\desktop\obrien_taylor_hw6\obrien_taylor_hw1\agent.cpp(17): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\tobrie10\desktop\obrien_taylor_hw6\obrien_taylor_hw1\agent.cpp(39): warning C4305: 'argument' : truncation from 'double' to 'Ogre::Real'
+     1>c:\users\tobrie10\desktop\obrien_taylor_hw6\obrien_taylor_hw1\agent.cpp(647): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\tobrie10\desktop\obrien_taylor_hw6\obrien_taylor_hw1\agent.cpp(648): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\tobrie10\desktop\obrien_taylor_hw6\obrien_taylor_hw1\agent.cpp(649): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\tobrie10\desktop\obrien_taylor_hw6\obrien_taylor_hw1\agent.cpp(845): warning C4305: '-=' : truncation from 'double' to 'float'
+     1>c:\users\tobrie10\desktop\obrien_taylor_hw6\obrien_taylor_hw1\agent.cpp(851): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\tobrie10\desktop\obrien_taylor_hw6\obrien_taylor_hw1\agent.cpp(887): warning C4305: '=' : truncation from 'double' to 'Ogre::Real'
+         Generating Code...
+       Link:
+         C:\Program Files\Microsoft Visual Studio 2012 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\tobrie10\Desktop\OBrien_Taylor_HW6\Debug\OBrien_Taylor_HW1.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\OgreSDK_vc11_v1-9-0\lib\Debug" /LIBPATH:"C:\OgreSDK_vc11_v1-9-0\boost\lib" OgreMain_d.lib OIS_d.lib OgreOverlay_d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\tobrie10\Desktop\OBrien_Taylor_HW6\Debug\OBrien_Taylor_HW1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\tobrie10\Desktop\OBrien_Taylor_HW6\Debug\OBrien_Taylor_HW1.lib" /MACHINE:X86 Debug\Agent.obj
+         Debug\Barrel.obj
+         Debug\BaseApplication.obj
+         Debug\Grid.obj
+         Debug\main.obj
+         Debug\GameApplication.obj
+         OBrien_Taylor_HW1.vcxproj -> C:\Users\tobrie10\Desktop\OBrien_Taylor_HW6\Debug\OBrien_Taylor_HW1.exe
+       PostBuildEvent:
+         copy "C:\Users\tobrie10\Desktop\OBrien_Taylor_HW6\Debug\\OBrien_Taylor_HW1.exe" "C:\OgreSDK_vc11_v1-9-0\Bin\Debug"
+         :VCEnd
+                 1 file(s) copied.
+     1>Done Building Project "C:\Users\tobrie10\Desktop\OBrien_Taylor_HW6\OBrien_Taylor_HW1\OBrien_Taylor_HW1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:05:49.08

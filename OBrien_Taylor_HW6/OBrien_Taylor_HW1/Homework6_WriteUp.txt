@@ -1,0 +1,23 @@
+Homework Assignment 6 - Physics
+Taylor O'Brien
+CS 425
+
+	Code Choices/How to Play:
+		-When the space bar is pressed, the fish will be launched in the direction of the barrel.
+		-Each time the fish resets, the mass changes (and the size!), causing the user to have to change the 
+		 velocity or direction to get the fish to go into the barrel. 
+		-The score resets after 20 fish and the user gets the chance to play again.
+		-Control:
+			Z: Increases the velocity of the fish by 1.
+			X: Decreases the velocity of the fish by 1.
+			C: Decreases the angle of the fish by 10.
+			V: Increases the angle of the fish by 10.
+
+
+	Bugs in code:
+		No bugs.
+		
+	Additional Comment: Since I am on a virtual machine, I am unable to get my cursor to click the button. There's
+		a known issue with the mouse "jumping" locations - I am still looking into it, but for this assignment I never 
+		was able to test the button. If the button doesn't work, I set up an alternative to press the Enter or Return button 
+		to have the same functionality. 

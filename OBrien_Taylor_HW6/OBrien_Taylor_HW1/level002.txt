@@ -1,0 +1,39 @@
+40 22
+Examples/Rockwall
+
+Objects
+k knot.mesh 1.7 0.0 0.02
+t tudorhouse.mesh 27.0 0.0 0.05
+h tudorhouse.mesh 27.0 90.0 0.05 
+b Barrel.mesh 3.5 0.0 1
+c column.mesh 11.0 0.0 0.1
+f fish.mesh 1.0 0.0 1
+p WoodPallet.mesh 1.0 0.0 1
+
+Characters
+s sinbad.mesh 15 3
+
+
+World
+oooooooooooooooooooccccccccccccccccccccc
+oooooooooooooooooooooooooooooooooooooooo
+ooooooooooooooooopoooooooooooboooooooooo
+oootoooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooo
+ooooooooooooooooooooooooooooooopoooooooo
+ooofoooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooo
+ooooooooooooosoooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooofooooo
+oooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooo
+ooooooooooooooooowwwwowwwooooohooooooooo
+oooooooooooooooowoooooowoooooooooooooooo
+oooooooooooooooowoooooowoooooooooooooooo
+oooooooooooooooowootooowoooooooooooooooo
+oooooooooooooooowoooooowoooooooooooooooo
+oooooooooooooooowoooooowoooooooooooooooo
+oooooooooooooooowwwwwwwwoooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooo

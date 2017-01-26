@@ -1,0 +1,34 @@
+15 20
+Examples/BeachStones
+
+Objects
+k knot.mesh 1.7 0.0 0.02
+d drum.mesh 2.0 0.0 0.15
+
+Characters
+s sinbad.mesh 5.2 3
+b fish.mesh 5.2 1
+
+
+World
+ooooooooooooooo
+ooooooooooooooo
+ooooooooooooooo
+ooooooooooooooo
+ooooooooooooooo
+ooooooooooooooo
+ooooooooooooooo
+ooooooooooooooo
+ooooooooooooooo
+ooooooooooooooo
+ooooooooooooooo
+ooooooooooooooo
+ooooooboooooooo
+ooooooooooooooo
+ooooooooooooooo
+ooooooooooooooo
+ooooooooooooooo
+ooooooooooooooo
+ooooooooooooooo
+ooooooooooooooo
+
